@@ -1,6 +1,6 @@
 # Port of Discharge Estimator
 
-This Google Sheets project helps logistics and freight professionals estimate the closest ports of discharge in the United States from any given zip code.
+This Google Sheets project helps logistics and freight professionals estimate the closest ports of discharge in the United States from any given zip code. This tool was used by the Customer Success team at Xhipment to optimize the supply chain by identifying the nearest ports, enabling more competitive pricing for shippers. 
 
 ## 🔍 What It Does
 
