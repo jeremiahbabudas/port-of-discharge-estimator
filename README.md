@@ -19,6 +19,7 @@ This Google Sheets project helps logistics and freight professionals estimate th
 ## 📁 Files
 
 - `code.gs` – Google Apps Script code containing core distance and caching functions
+- `scrapePorts.gs` – Google Apps Script code that scrapes port data from Wikipedia and populates a Google Sheet with port rankings, names, states, and trade statistics.
 
 ## 🚀 How to Use
 
