@@ -26,7 +26,7 @@ This Google Sheets project helps logistics and freight professionals estimate th
 
 ## 🚀 How to Use
 
-1. Make a copy of the Google Sheet (coming soon)
+1. Make a copy of the Google Sheet
 2. Enter your zip code
 3. Set how many ports you want to view
 4. View the closest ports with real-time distance data
