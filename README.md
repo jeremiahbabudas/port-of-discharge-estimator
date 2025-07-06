@@ -44,4 +44,4 @@ This Google Sheets project helps logistics and freight professionals estimate th
 - Supports driving, walking, bicycling, or transit modes (default is driving)
 
   ## 📷 Screenshot
-![Dashboard Screenshot 1](POD%20Estimator%20Screenshot.png)
+![POD Estimator](POD%20Estimator.png)
